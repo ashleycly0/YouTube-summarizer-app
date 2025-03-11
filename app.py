@@ -1,1 +1,1 @@
-from youtube_transcript_api import YouTubeTranscriptApi
+https://yt.vl.comp.polyu.edu.hk/transcript?password=for_demo&video_id=VIDEO_ID
